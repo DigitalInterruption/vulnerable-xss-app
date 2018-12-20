@@ -7,7 +7,7 @@ It was created to demonstrate:
 * How custom filtering and cleansing may be bypassed
 * Alternative attack vectors to those typically documented
 
-To read more about this, see our blog post at: https://DigitalInterruption.github.io/research-blog/2018/12/18/a-deeper-look-into-xss-payloads/
+To read more about this, see our blog post at: https://research.digitalinterruption.com/2018/12/18/a-deeper-look-into-xss-payloads/
 
 Prerequisites
 -------------
