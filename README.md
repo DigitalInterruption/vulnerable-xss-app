@@ -22,6 +22,8 @@ cd vulnerable-xss-app
 yarn install
 ```
 
+Run `node app.js` and then visit http://localhost:3000 in your browser.
+
 Usage
 -----
 Each of the vulnerable endpoints accepts a query string parameter named `xss` which is processed and output in the response.
